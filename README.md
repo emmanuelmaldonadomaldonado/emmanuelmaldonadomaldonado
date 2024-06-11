@@ -73,7 +73,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/emmanuelmaldonado" target="_blank">
+<a href="https://www.linkedin.com/in/emmanuel-maldonado-07378a2b2/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Emmanuel%20Maldonado-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 </li>
