@@ -39,7 +39,7 @@
 
 <br>   
     
-- **Currently Learning**:
+- **🧠 Currently Learning**:
 
   ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
@@ -48,7 +48,7 @@
     
 <br>
 
-- **Softwares and Tools**:
+- **🛠️ Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,7 +56,7 @@
 
 <br>
 
-- **Extras**:
+- **🚀 Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
