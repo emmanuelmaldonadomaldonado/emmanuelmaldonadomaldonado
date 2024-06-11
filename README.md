@@ -19,7 +19,8 @@
 - 📍 From Orocovis, Puerto Rico.
 - 💻 Currently a student at Holberton Coding School.
 - 🌟 Passionate about Software Engineering and Web Development.
-- 🎸 Cool fact: I play electric guitar.
+- 🌱 Always eager to learn and tackle new challenges in the world of technology.
+- 🎸 Fun fact: I play electric guitar.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
