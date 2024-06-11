@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi! I'm Emmanuel Maldonado</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Emmanuel Maldonado</b></h1>
 <!--  -->
 <br>
 <div align="center" >
